@@ -4,10 +4,6 @@
 
 <p>Counterfactual Adaptation Against Memory-induced Sycophancy</p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2610.05162-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2610.05162)
-[![PDF](https://img.shields.io/badge/Paper-PDF-b31b1b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://arxiv.org/pdf/2610.05162)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DEEP-JLU/MemAdapter)
-
 </div>
 
 Official implementation of **MemAdapter: Counterfactual Adaptation Against Memory-induced Sycophancy**. MemAdapter evaluates how retrieved memories are used during language-model generation, with shared retrieval, generation, and judging pipelines for memory-system comparisons.
