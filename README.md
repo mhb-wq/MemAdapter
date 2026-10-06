@@ -4,6 +4,17 @@
 
 <p>Counterfactual Adaptation Against Memory-induced Sycophancy</p>
 
+<p>
+  <a href="#about">📖 About</a> ·
+  <a href="#repository-structure">🗂️ Structure</a> ·
+  <a href="#installation">🛠️ Installation</a>
+</p>
+<p>
+  <a href="#quick-start">🚀 Quick Start</a> ·
+  <a href="#reproducing-experiments">🧪 Reproduction</a> ·
+  <a href="#citation">📑 Citation</a>
+</p>
+
 </div>
 
 Official implementation of **MemAdapter: Counterfactual Adaptation Against Memory-induced Sycophancy**. MemAdapter evaluates how retrieved memories are used during language-model generation, with shared retrieval, generation, and judging pipelines for memory-system comparisons.
