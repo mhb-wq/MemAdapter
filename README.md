@@ -93,4 +93,3 @@ Two ablations are included:
 | `stage1-stage2-baseline` | Stages 1 and 2 |
 
 Use `methods/memadapter/ablations/run_ablation.ps1` for one ablation cell, or the batch launchers in the same directory for all registered systems.
-
