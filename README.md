@@ -11,8 +11,7 @@
 </p>
 <p>
   <a href="#quick-start">🚀 Quick Start</a> ·
-  <a href="#reproducing-experiments">🧪 Reproduction</a> ·
-  <a href="#citation">📑 Citation</a>
+  <a href="#reproducing-experiments">🧪 Reproduction</a>
 </p>
 
 </div>
@@ -95,13 +94,3 @@ Two ablations are included:
 
 Use `methods/memadapter/ablations/run_ablation.ps1` for one ablation cell, or the batch launchers in the same directory for all registered systems.
 
-<h2 id="citation">📑 Citation</h2>
-
-```bibtex
-@article{ningmemadapter,
-  title={Memadapter: Counterfactual Adaptation Against Memory-induced Sycophancy},
-  author={Ning, Ruqing and Meng, Haibo and Xiang, Zhishang and Chen, Zerui and Su, Jinsong and Wang, Xin and Zhang, Qinggang},
-  journal={arXiv preprint arXiv:2610.05162},
-  year={2026}
-}
-```
